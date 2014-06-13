@@ -19,3 +19,4 @@
 <portlet:defineObjects />
 
 This is the <b>demoMavenPrj</b>.
+updated scipt hre...
